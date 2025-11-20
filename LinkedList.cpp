@@ -157,7 +157,32 @@ struct node* MergeSorted(struct node* head1, struct node* head2) {
 
 	struct node* mergedHead = NULL;
 
-	//TODO
+	if (head1->data <= head2->data) {
+		mergedHead = head1;
+		head1 = head1->next;
+	} else {
+		mergedHead = head2;
+		head2 = head2->next;
+	}
+
+	struct node* current = mergedHead;
+
+	while (head1 != NULL && head2 != NULL) {
+		if (head1->data <= head2->data) {
+			current->next = head1;
+			head1 = head1->next;
+		} else {
+			current->next = head2;
+			head2 = head2->next;
+		}
+		current = current->next;
+	}
+
+	if (head1 != NULL) {
+		current->next = head1;
+	} else {
+		current->next = head2;
+	}
 
 	return mergedHead;
 }
@@ -167,7 +192,18 @@ struct node* MergeSorted(struct node* head1, struct node* head2) {
 // No new nodes or Push allowed
 // -------------------------------------------------------
 void ReverseList(struct node** headRef) {
-	//TODO
+	struct node* prev = NULL;
+	struct node* current = *headRef;
+	struct node* next = NULL;
+
+	while (current != NULL) {
+		next = current->next;
+		current->next = prev;
+		prev = current;
+		current = next;
+	}
+
+	*headRef = prev;
 }
 
 int main() {
