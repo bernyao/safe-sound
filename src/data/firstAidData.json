@@ -1,0 +1,1353 @@
+{
+  "guides": [
+    {
+      "id": "cpr-adult",
+      "category": "CPR",
+      "title": "CPR for Adults",
+      "severity": "critical",
+      "keywords": ["heart", "cardiac", "arrest", "unconscious", "breathing"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey",
+          "tip": "Check for hazards before approaching"
+        },
+        {
+          "number": 2,
+          "instruction": "Assess responsiveness"
+        },
+        {
+          "number": 3,
+          "instruction": "If there is no response, call for medical help (use speaker-phone if on a mobile) and send someone for an AED",
+          "warning": "If you are alone and have no phone, go for help and an AED if available"
+        },
+        {
+          "number": 4,
+          "instruction": "Perform a primary survey",
+          "detail": "Open the airway and check for breathing for at least 5 and no more than 10 seconds",
+          "illustration": "childtilt.png"
+        },
+        {
+          "number": 5,
+          "instruction": "If the casualty is not breathing (or not breathing effectively/agonal), position your hands in the centre of the upper chest with shoulders directly over your hands",
+          "detail": "Keep your elbows locked",
+          "illustration": "pushing-chest.png"
+        },
+        {
+          "number": 6,
+          "instruction": "Give 30 compressions — push hard, push fast",
+          "detail": "Press straight down on the breastbone 5–6 cm (2–2.4 in), allow full recoil, and compress at 100–120/min",
+          "tip": "Count out loud to keep rhythm"
+        },
+        {
+          "number": 7,
+          "instruction": "Open the airway by tilting the head and lifting the chin",
+          "illustration": "tilt-head.png"
+        },
+        {
+          "number": 8,
+          "instruction": "Give 2 rescue breaths",
+          "detail": "Use a barrier device if available; each breath ~1 second, just enough to make the chest rise",
+          "illustration": "breathing.png"
+        },
+        {
+          "number": 9,
+          "instruction": "This is one cycle of 30:2 (30 compressions to 2 ventilations) — continue CPR until an AED is applied, the casualty responds, another trained rescuer/EMS takes over, or you are too exhausted",
+          "warning": "Apply the AED as soon as it arrives"
+        }
+      ],
+      "warnings": [
+        "Do not perform on conscious person",
+        "Stop if person starts breathing normally"
+      ],
+      "whenToCall911": "Immediately — activate EMS and get an AED as soon as possible",
+      "duration": "Until AED/EMS arrives"
+    },
+    {
+      "id": "cpr-child",
+      "category": "CPR",
+      "title": "CPR for Children",
+      "severity": "critical",
+      "keywords": ["child", "kid", "cardiac", "arrest", "unconscious"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey",
+          "tip": "Check for hazards before approaching"
+        },
+        {
+          "number": 2,
+          "instruction": "Assess responsiveness"
+        },
+        {
+          "number": 3,
+          "instruction": "If there is no response, send or call for medical help and an AED if available",
+          "detail": "If you are alone with no phone, perform 5 cycles of CPR (about 2 minutes), then go for medical help; carry the child with you if possible"
+        },
+        {
+          "number": 4,
+          "instruction": "Perform a primary survey",
+          "detail": "Open the airway and check for breathing for at least 5 and no more than 10 seconds",
+          "illustration": "childtilt.png"
+        },
+        {
+          "number": 5,
+          "instruction": "If the casualty is not breathing (or not breathing effectively/agonal), position your hands in the centre of the upper chest with shoulders directly over your hands",
+          "detail": "Keep your elbows locked; use one or two hands depending on the child's size",
+          "illustration": "chestcomp.png"
+        },
+        {
+          "number": 6,
+          "instruction": "Give 30 compressions — push hard, push fast",
+          "detail": "Compress about 1/3 of chest depth (about 5 cm / 2 in), allow full recoil, and compress at 100–120/min",
+          "tip": "Count out loud to keep rhythm"
+        },
+        {
+          "number": 7,
+          "instruction": "Open the airway by tilting the head and lifting the chin",
+          "illustration": "childtilt.png"
+        },
+        {
+          "number": 8,
+          "instruction": "Give 2 rescue breaths",
+          "detail": "Use a barrier device if available; give just enough air to make the chest rise",
+          "illustration": "breathing.png"
+        },
+        {
+          "number": 9,
+          "instruction": "This is one cycle of 30:2 (30 compressions to 2 ventilations) — continue CPR until an AED is applied, the casualty responds, another rescuer/EMS takes over, or you are too exhausted",
+          "warning": "Apply the AED as soon as it arrives"
+        }
+      ],
+      "warnings": [
+        "Use one or two hands depending on the child's size",
+        "If you are alone with no phone, perform about 2 minutes (5 cycles) of CPR before going for help",
+        "Apply an AED as soon as it arrives"
+      ],
+      "whenToCall911": "Immediately — activate EMS and get an AED as soon as possible (if alone with no phone: 2 minutes/5 cycles first)",
+      "duration": "Until AED/EMS arrives"
+    },
+    {
+      "id": "choking-adult",
+      "category": "Choking",
+      "title": "Choking Relief (Adult)",
+      "severity": "critical",
+      "keywords": ["choking", "heimlich", "airway", "obstruction", "gagging"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey to ensure safety for you and the casualty"
+        },
+        {
+          "number": 2,
+          "instruction": "Assess severity — ask 'Are you choking?' and look for inability to speak, cough, or breathe",
+          "warning": "Call 911 immediately if severe obstruction is suspected"
+        },
+        {
+          "number": 3,
+          "instruction": "If the person can cough forcefully, speak, or breathe, encourage them to keep coughing",
+          "tip": "Seek medical help if mild obstruction lasts more than a few minutes"
+        },
+        {
+          "number": 4,
+          "instruction": "If severe obstruction: give up to 5 back blows between the shoulder blades",
+          "detail": "Support the person while striking with the heel of your hand",
+          "illustration": "chest-thrust.png"
+        },
+        {
+          "number": 5,
+          "instruction": "If not cleared, stand behind the person ready to support them if they become unconscious",
+          "illustration": "choking-position.png"
+        },
+        {
+          "number": 6,
+          "instruction": "Make a fist and place it at the belly button level, above the navel and below the ribcage",
+          "detail": "Align with the hip bones; avoid the lower ribcage and xiphoid",
+          "illustration": "heimlich-maneuver.png"
+        },
+        {
+          "number": 7,
+          "instruction": "Grasp the fist with your other hand and deliver 5 quick inward and upward abdominal thrusts",
+          "detail": "Heimlich maneuver",
+          "illustration": "heimlich-maneuver.png"
+        },
+        {
+          "number": 8,
+          "instruction": "Repeat cycles of 5 back blows and 5 abdominal thrusts until the object is expelled",
+          "warning": "Do not give food or drink; continue cycles until effective or the person becomes unconscious"
+        },
+        {
+          "number": 9,
+          "instruction": "If the person becomes unconscious, lower them to the ground and call for medical help and an AED",
+          "warning": "Activate EMS immediately"
+        },
+        {
+          "number": 10,
+          "instruction": "Begin chest compressions immediately"
+        },
+        {
+          "number": 11,
+          "instruction": "After the first 30 compressions, open the mouth and remove any visible object"
+        },
+        {
+          "number": 12,
+          "instruction": "Attempt 2 rescue breaths; if air does not enter, continue compressions and recheck the mouth before each set of ventilations"
+        }
+      ],
+      "warnings": [
+        "For mild obstruction, do not interfere beyond encouraging coughing",
+        "Abdominal thrusts can cause internal injuries — seek medical evaluation afterward",
+        "If unconscious, prioritize compressions and airway checks with visible object removal only"
+      ],
+      "whenToCall911": "Immediately for severe obstruction or if the person becomes unconscious; obtain an AED",
+      "duration": "2-5 minutes"
+    },
+    {
+      "id": "choking-adult-self-help",
+      "category": "Choking",
+      "title": "Choking (Adult) — Self-Help",
+      "severity": "critical",
+      "keywords": [
+        "choking",
+        "self-help",
+        "self",
+        "heimlich",
+        "airway",
+        "obstruction"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "If people are around, get their attention — do not isolate yourself"
+        },
+        {
+          "number": 2,
+          "instruction": "Try to cough up the object",
+          "tip": "If you can cough forcefully, keep coughing"
+        },
+        {
+          "number": 3,
+          "instruction": "Give yourself abdominal thrusts until you can cough forcefully, breathe, or speak",
+          "warning": "If you cannot breathe or are becoming weak, call 911 immediately"
+        },
+        {
+          "number": 4,
+          "instruction": "If needed, use a solid object (back of a chair, table, or counter edge) to deliver thrusts",
+          "detail": "Position yourself so the edge is just above your hips",
+          "illustration": "self-help.png"
+        },
+        {
+          "number": 5,
+          "instruction": "Press forcefully against the object to produce abdominal thrusts",
+          "warning": "Stop once breathing returns; seek medical evaluation afterward"
+        }
+      ],
+      "warnings": [
+        "Only remove an object if it is clearly visible and easily reachable",
+        "Abdominal thrusts can cause internal injuries — seek medical evaluation afterward",
+        "If you become dizzy, weak, or lose consciousness, you may fall — try to stay near others"
+      ],
+      "whenToCall911": "Immediately if you cannot breathe/speak/cough, symptoms worsen, or after the object is expelled if you have persistent pain",
+      "duration": "1-3 minutes"
+    },
+    {
+      "id": "choking-child",
+      "category": "Choking",
+      "title": "Choking Relief (Child)",
+      "severity": "critical",
+      "keywords": ["child", "choking", "airway", "obstruction"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Determine if choking is severe",
+          "warning": "Can't cry, cough, or speak = severe"
+        },
+        {
+          "number": 2,
+          "instruction": "For child aged 1-8: use back blows and chest thrusts",
+          "detail": "Alternate 5 back blows with 5 chest thrusts"
+        },
+        {
+          "number": 3,
+          "instruction": "Position child face-down on your forearm",
+          "tip": "Support jaw and chin"
+        },
+        {
+          "number": 4,
+          "instruction": "Give 5 sharp back blows between shoulder blades",
+          "illustration": "choking-child-backblows.png"
+        },
+        {
+          "number": 5,
+          "instruction": "Turn child face-up and give 5 chest thrusts",
+          "detail": "Use 2-3 fingers, press 1-1.5 inches deep"
+        },
+        {
+          "number": 6,
+          "instruction": "Repeat cycles of 5 back blows and 5 thrusts until the object is expelled",
+          "warning": "Call 911 if unsuccessful after 2 minutes"
+        },
+        {
+          "number": 7,
+          "instruction": "If the child becomes unconscious, lower to the ground, call for medical help and get an AED"
+        },
+        {
+          "number": 8,
+          "instruction": "Begin chest compressions immediately"
+        },
+        {
+          "number": 9,
+          "instruction": "After the first 30 compressions, check the mouth and remove any visible object"
+        },
+        {
+          "number": 10,
+          "instruction": "Attempt 2 rescue breaths; if air does not go in, continue compressions and inspect the mouth before ventilations"
+        }
+      ],
+      "warnings": [
+        "Do not use abdominal thrusts on children under 1 year",
+        "Risk of internal organ damage",
+        "If unconscious, prioritize compressions and only remove visible objects"
+      ],
+      "whenToCall911": "Immediately if unable to clear airway or at any point the child becomes unconscious",
+      "duration": "2-5 minutes"
+    },
+    {
+      "id": "choking-baby",
+      "category": "Choking",
+      "title": "Choking Relief (Baby)",
+      "severity": "critical",
+      "keywords": ["baby", "infant", "choking", "airway", "obstruction"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and primary survey",
+          "tip": "Ensure the baby is safe and responsive"
+        },
+        {
+          "number": 2,
+          "instruction": "If the baby can cough forcefully or breathe, let the baby try to cough up the object",
+          "tip": "If a mild obstruction lasts for more than a few minutes, send for medical help",
+          "illustration": "baby-choking-step-2.png"
+        },
+        {
+          "number": 3,
+          "instruction": "Assess if baby cannot cough forcefully, cannot breathe, makes high-pitched noise when trying to breathe, or starts to turn blue",
+          "warning": "These are signs of severe obstruction — begin back blows and chest thrusts immediately"
+        },
+        {
+          "number": 4,
+          "instruction": "Secure the baby between your forearms and turn them face-down",
+          "detail": "Support the baby securely while performing back blows",
+          "illustration": "baby-choking-step-4.png"
+        },
+        {
+          "number": 5,
+          "instruction": "With the baby's head lower than the body, use the heel of your hand to give 5 forceful back blows between the shoulder blades",
+          "warning": "Apply firm pressure between the shoulder blades",
+          "illustration": "baby-choking-step-5.png"
+        },
+        {
+          "number": 6,
+          "instruction": "Turn the baby face-up and give 5 chest thrusts",
+          "detail": "Use 2 fingers and press 1-1.5 inches deep on the breastbone",
+          "illustration": "baby-choking-step-6.png"
+        },
+        {
+          "number": 7,
+          "instruction": "Keep giving back blows and chest thrusts until either the airway is cleared or the baby becomes unconscious",
+          "warning": "Alternate 5 back blows with 5 chest thrusts in cycles"
+        },
+        {
+          "number": 8,
+          "instruction": "If the baby becomes unconscious, send for medical help. Begin chest compressions immediately. After the first 30 compressions, check the mouth. Remove any foreign object you can see. Try to give 2 breaths and continue to give chest compressions and inspecting the mouth before ventilations",
+          "warning": "Call 911 or activate EMS at once"
+        }
+      ],
+      "warnings": [
+        "Do not use abdominal thrusts on babies under 1 year",
+        "Risk of severe internal organ damage in infants",
+        "High-pitched noise when breathing and blue skin = severe emergency",
+        "If unconscious, prioritize compressions and only remove visible objects"
+      ],
+      "whenToCall911": "Immediately if unable to clear airway or at any point the baby becomes unconscious",
+      "duration": "2-5 minutes"
+    },
+    {
+      "id": "severe-bleeding",
+      "category": "Bleeding",
+      "title": "First Aid for Severe External Bleeding",
+      "severity": "critical",
+      "keywords": [
+        "bleeding",
+        "hemorrhage",
+        "wound",
+        "blood",
+        "pressure",
+        "dressing"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey, then do a primary survey",
+          "tip": "Ensure safety for you and the casualty before approaching"
+        },
+        {
+          "number": 2,
+          "instruction": "To control severe bleeding, apply direct pressure to the wound",
+          "detail": "Use a clean cloth or bandage and press firmly",
+          "illustration": "bleedingpressure.png"
+        },
+        {
+          "number": 3,
+          "instruction": "Place the casualty at rest",
+          "detail": "Keep them calm and still to minimize blood loss"
+        },
+        {
+          "number": 4,
+          "instruction": "Once bleeding is under control, continue the primary survey, looking for other life-threatening injuries",
+          "warning": "Do not focus only on the visible wound"
+        },
+        {
+          "number": 5,
+          "instruction": "Before bandaging the wound, check circulation below the injury. Bandage the dressing in place",
+          "detail": "Ensure the bandage is secure but not too tight to cut off circulation"
+        },
+        {
+          "number": 6,
+          "instruction": "Check the circulation below the injury and compare it with the other side",
+          "detail": "If circulation is worse than before the injury was bandaged, loosen the bandage just enough to improve circulation if possible",
+          "warning": "Watch for numbness, tingling, or color changes"
+        },
+        {
+          "number": 7,
+          "instruction": "Give ongoing casualty care",
+          "detail": "If the dressings become blood-soaked, don't remove them — add more dressings and continue pressure. Removing the blood-soaked dressings may disturb blood clots and expose the wound to further contamination",
+          "warning": "Never remove the first layer of dressing"
+        }
+      ],
+      "warnings": [
+        "Do not remove blood-soaked dressings",
+        "Removing dressings disrupts blood clots and risks contamination",
+        "Watch for signs of shock",
+        "Check circulation regularly below the injury"
+      ],
+      "whenToCall911": "Immediately for severe or uncontrollable bleeding",
+      "duration": "Until bleeding is controlled and EMS arrives"
+    },
+    {
+      "id": "shock",
+      "category": "Shock",
+      "title": "First Aid for Shock",
+      "severity": "critical",
+      "keywords": ["shock", "pale", "weak", "rapid heartbeat", "emergency"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Give first aid for the injury or illness that caused the shock",
+          "detail": "Address the underlying cause while providing shock treatment"
+        },
+        {
+          "number": 2,
+          "instruction": "Reassure the casualty often",
+          "detail": "Keep them calm and informed about what is happening"
+        },
+        {
+          "number": 3,
+          "instruction": "Minimize pain by handling the casualty gently",
+          "detail": "Avoid unnecessary movement and be very careful when moving them"
+        },
+        {
+          "number": 4,
+          "instruction": "Loosen tight clothing at the neck, chest and waist",
+          "detail": "This improves circulation and breathing"
+        },
+        {
+          "number": 5,
+          "instruction": "Keep the casualty warm, but do not overheat",
+          "detail": "Use jackets, coats or blankets if you have them. Avoid overheating"
+        },
+        {
+          "number": 6,
+          "instruction": "Moisten the lips if the casualty complains of thirst",
+          "detail": "Don't give anything to eat or drink. If medical help is delayed many hours, give small amounts of water or clear fluids to drink — make a note of what was given and when"
+        },
+        {
+          "number": 7,
+          "instruction": "Place the casualty in the best position for their condition",
+          "detail": "Generally, lay them flat with legs elevated 8-12 inches above heart level, unless this causes pain or difficulty breathing"
+        }
+      ],
+      "warnings": [
+        "Do not give food or drink unless absolutely necessary after extended delay",
+        "Do not overheat the casualty",
+        "Handle the casualty gently to minimize pain",
+        "Watch for changes in consciousness and breathing",
+        "Shock can develop quickly and be life-threatening"
+      ],
+      "whenToCall911": "Immediately - shock is a medical emergency",
+      "duration": "Until EMS arrives and takes over"
+    },
+    {
+      "id": "fainting",
+      "category": "Fainting",
+      "title": "First Aid for Fainting",
+      "severity": "major",
+      "keywords": ["fainting", "faint", "unconscious", "collapsed", "collapse"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Ensure a supply of fresh air and loosen tight clothing",
+          "detail": "Loosen tight clothing at the neck, chest and waist to improve breathing"
+        },
+        {
+          "number": 2,
+          "instruction": "Make the casualty comfortable as consciousness returns",
+          "detail": "Keep them lying down for 10 to 15 minutes"
+        },
+        {
+          "number": 3,
+          "instruction": "Continue to monitor breathing and consciousness",
+          "detail": "Watch for any changes in their condition"
+        },
+        {
+          "number": 4,
+          "instruction": "If recovery is not quick or complete, stay with the casualty",
+          "detail": "Do not assume a person has 'just fainted' unless there is a quick recovery. Stay with them until medical help takes over"
+        },
+        {
+          "number": 5,
+          "instruction": "If you must leave, turn the casualty into the recovery position",
+          "detail": "Be as careful as you can if there are any injuries"
+        }
+      ],
+      "warnings": [
+        "Do not assume quick recovery without monitoring",
+        "Do not leave the casualty unattended if recovery seems incomplete",
+        "If fainting is caused by another condition, treat the underlying cause",
+        "Watch for changes in breathing or consciousness"
+      ],
+      "whenToCall911": "If recovery is not quick/complete, or if fainting is due to injury, chest pain, or repeat fainting",
+      "duration": "10-15 minutes recovery time"
+    },
+    {
+      "id": "impending-faint",
+      "category": "Fainting",
+      "title": "First Aid for Impending Faint",
+      "severity": "minor",
+      "keywords": [
+        "fainting",
+        "impending",
+        "dizzy",
+        "pale",
+        "nauseous",
+        "warning signs"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Place the casualty on their back",
+          "detail": "Do this as soon as you recognize the warning signs"
+        },
+        {
+          "number": 2,
+          "instruction": "Ensure a supply of fresh air",
+          "detail": "Open windows or doors to provide ventilation"
+        },
+        {
+          "number": 3,
+          "instruction": "Loosen tight clothing at the neck, chest and waist",
+          "detail": "This improves circulation and breathing"
+        },
+        {
+          "number": 4,
+          "instruction": "Stay with the casualty until they have fully recovered",
+          "detail": "Monitor their condition and be ready to provide further assistance"
+        }
+      ],
+      "warnings": [
+        "Warning signs include: pale skin, sweating, feeling sick or nauseous, dizziness, or unsteadiness",
+        "Act quickly when you notice these signs to prevent actual fainting",
+        "Do not leave the casualty unattended during recovery"
+      ],
+      "whenToCall911": "If the casualty loses consciousness or does not recover quickly",
+      "duration": "Until full recovery, usually a few minutes"
+    },
+    {
+      "id": "burns-first-degree",
+      "category": "Burns",
+      "title": "First Degree Burns (Minor)",
+      "severity": "minor",
+      "keywords": [
+        "burn",
+        "sunburn",
+        "superficial",
+        "redness",
+        "pain",
+        "minor"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Cool the burn",
+          "detail": "Hold the area under cool — not cold — running water for about 10 minutes. If this isn't possible or if the burn is on the face, apply a cool, wet cloth until the pain eases. For a mouth burn from hot food or drink, put a piece of ice in the mouth for a few minutes"
+        },
+        {
+          "number": 2,
+          "instruction": "Remove rings or other tight items",
+          "detail": "Try to do this quickly and gently, before the burned area swells"
+        },
+        {
+          "number": 3,
+          "instruction": "Apply lotion",
+          "detail": "After the burn is cooled, apply a lotion, such as one with aloe vera or cocoa butter. This helps prevent drying",
+          "illustration": "burn-aloe.png"
+        },
+        {
+          "number": 4,
+          "instruction": "Bandage the burn",
+          "detail": "Cover the burn with a clean bandage. Wrap it loosely to avoid putting pressure on burned skin. Bandaging keeps air off the area, reduces pain and protects blistered skin"
+        },
+        {
+          "number": 5,
+          "instruction": "If needed, take a nonprescription pain reliever",
+          "detail": "Such as ibuprofen (Advil, Motrin IB, others) or acetaminophen (Tylenol, others)",
+          "tip": "Pain relievers can reduce inflammation and discomfort"
+        }
+      ],
+      "warnings": [
+        "Do not apply ice directly to skin",
+        "Do not use butter or oily substances",
+        "Do not break blisters if they form"
+      ],
+      "whenToCall911": "Not necessary for minor burns",
+      "duration": "10 minutes cooling, then ongoing care"
+    },
+    {
+      "id": "burns-second-degree",
+      "category": "Burns",
+      "title": "First Aid for a Second-Degree Burn",
+      "severity": "major",
+      "keywords": ["burn", "blister", "second degree", "moderate", "pain"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Place the burn under cool running water for at least 5 minutes",
+          "detail": "Use cool water, not cold water"
+        },
+        {
+          "number": 2,
+          "instruction": "Remove all excess clothing and accessories from around the burned area",
+          "detail": "Do this carefully to avoid further damage"
+        },
+        {
+          "number": 3,
+          "instruction": "Take an over-the-counter pain reliever",
+          "detail": "Such as ibuprofen or acetaminophen to manage pain"
+        },
+        {
+          "number": 4,
+          "instruction": "Drink plenty of fluids",
+          "detail": "This helps prevent dehydration from the burn injury"
+        },
+        {
+          "number": 5,
+          "instruction": "Seek medical attention if needed",
+          "warning": "Consult a healthcare provider, especially for large burns or burns on sensitive areas"
+        }
+      ],
+      "warnings": [
+        "Do not ice the burn as this can further damage the skin",
+        "Do not break the blisters",
+        "Never put butter on a burn",
+        "Avoid wrapping the burn tightly with gauze as this can put pressure on the burn tissue"
+      ],
+      "whenToCall911": "For burns larger than 3 inches, burns on face/joints/genitals, or if unable to manage pain",
+      "duration": "5 minutes cooling, then ongoing care"
+    },
+    {
+      "id": "burns-third-degree",
+      "category": "Burns",
+      "title": "Third Degree Burns (Severe)",
+      "severity": "critical",
+      "keywords": ["burn", "severe", "charred", "deep", "full thickness"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Call 911 IMMEDIATELY - this is a medical emergency",
+          "warning": "Do not delay emergency services"
+        },
+        {
+          "number": 2,
+          "instruction": "Remove from heat source and heat source",
+          "detail": "Do not cool with water - risk of shock"
+        },
+        {
+          "number": 3,
+          "instruction": "Do NOT remove stuck clothing or jewelry",
+          "warning": "Removing causes additional tissue damage"
+        },
+        {
+          "number": 4,
+          "instruction": "Lay person flat with burned area elevated",
+          "detail": "Elevate above heart to reduce shock"
+        },
+        {
+          "number": 5,
+          "instruction": "Cover with clean, dry cloth only",
+          "warning": "Do not apply ointments, ice, or water"
+        },
+        {
+          "number": 6,
+          "instruction": "Monitor for shock - keep person warm",
+          "detail": "Cover with blanket but not over burn"
+        },
+        {
+          "number": 7,
+          "instruction": "Do not give anything to eat or drink",
+          "warning": "May need anesthesia for surgery"
+        }
+      ],
+      "warnings": [
+        "Charred, white, or leathery appearance",
+        "Little to no pain (nerves destroyed)",
+        "Life-threatening burns - major medical emergency",
+        "Risk of severe infection, shock, and death"
+      ],
+      "whenToCall911": "Immediately",
+      "duration": "Until emergency arrives"
+    },
+    {
+      "id": "shock-treatment",
+      "category": "Shock",
+      "title": "Treat Shock",
+      "severity": "critical",
+      "keywords": ["shock", "pale", "cold", "rapid pulse", "weak", "collapse"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Call 911 immediately",
+          "warning": "Shock is life-threatening"
+        },
+        {
+          "number": 2,
+          "instruction": "Identify cause of shock if possible",
+          "detail": "Severe injury, blood loss, severe illness, allergic reaction"
+        },
+        {
+          "number": 3,
+          "instruction": "Lay person flat with legs elevated 12 inches",
+          "detail": "Unless head injury or spinal injury suspected",
+          "illustration": "shock-position.png"
+        },
+        {
+          "number": 4,
+          "instruction": "Keep person warm with blankets",
+          "tip": "Prevent further heat loss"
+        },
+        {
+          "number": 5,
+          "instruction": "Do not give food or water",
+          "warning": "May choke or vomit"
+        },
+        {
+          "number": 6,
+          "instruction": "Monitor breathing and pulse",
+          "detail": "Be prepared to begin CPR"
+        },
+        {
+          "number": 7,
+          "instruction": "Reassure person and keep them calm",
+          "tip": "Emotional support helps reduce shock severity"
+        }
+      ],
+      "warnings": [
+        "Signs: pale, cold, clammy skin, weakness, rapid/weak pulse",
+        "Can be fatal if untreated",
+        "Monitor continuously until help arrives"
+      ],
+      "whenToCall911": "Immediately",
+      "duration": "Until emergency arrives"
+    },
+    {
+      "id": "allergic-reaction",
+      "category": "Allergies",
+      "title": "First Aid for a Severe Allergic Reaction",
+      "severity": "critical",
+      "keywords": [
+        "allergy",
+        "anaphylaxis",
+        "reaction",
+        "epipen",
+        "epinephrine",
+        "auto-injector",
+        "swelling"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and a primary survey. Send for medical help",
+          "warning": "Call 911 immediately for severe reactions"
+        },
+        {
+          "number": 2,
+          "instruction": "Place the casualty in the most comfortable position for breathing",
+          "detail": "Usually sitting upright. This position helps open the airway"
+        },
+        {
+          "number": 3,
+          "instruction": "Assist the casualty with their medication, usually an epinephrine auto-injector",
+          "detail": "Help them use their EpiPen or similar auto-injector as directed"
+        },
+        {
+          "number": 4,
+          "instruction": "To use the auto-injector: Remove from storage tube and hold firmly with orange tip downward",
+          "detail": "Remove the blue safety release",
+          "illustration": "autoinjection-step1.png"
+        },
+        {
+          "number": 5,
+          "instruction": "Use the auto-injector on the fleshy part of the mid-outer thigh",
+          "detail": "Auto-injectors can be given through lightweight clothing"
+        },
+        {
+          "number": 6,
+          "instruction": "Press the orange tip firmly into the mid-outer thigh until the unit activates",
+          "detail": "The injection will deliver the epinephrine automatically"
+        },
+        {
+          "number": 7,
+          "instruction": "Hold the auto-injector in place for several seconds, then pull it straight out",
+          "detail": "Ensure the full dose has been delivered",
+          "illustration": "autoinjection-step4.png"
+        },
+        {
+          "number": 8,
+          "instruction": "After injection, keep the casualty warm and avoid any exertion",
+          "warning": "Call 911 as soon as you have given the first dose",
+          "illustration": "autoinjection-step5.png"
+        },
+        {
+          "number": 9,
+          "instruction": "Give ongoing casualty care",
+          "detail": "Monitor breathing and vital signs, be prepared for CPR if needed"
+        }
+      ],
+      "warnings": [
+        "Anaphylaxis is a life-threatening emergency",
+        "Symptoms include: difficulty breathing, throat tightness, swelling, hives, dizziness",
+        "Call 911 immediately for severe reactions",
+        "Use EpiPen as soon as anaphylaxis is suspected",
+        "Call 911 as soon as the first dose is given",
+        "Symptoms may recur - seek immediate medical attention",
+        "Do not elevate legs if difficulty breathing",
+        "Do not re-insert the needle back into the auto-injector after use"
+      ],
+      "whenToCall911": "Immediately for severe allergic reactions or anaphylaxis",
+      "duration": "Until emergency services arrives"
+    },
+    {
+      "id": "poisoning",
+      "category": "Poisoning",
+      "title": "General First Aid for Poisoning",
+      "severity": "critical",
+      "keywords": [
+        "poison",
+        "toxic",
+        "ingestion",
+        "overdose",
+        "chemical",
+        "inhaled",
+        "absorbed",
+        "injected"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and a primary survey",
+          "detail": "Gather any information about the suspected poison"
+        },
+        {
+          "number": 2,
+          "instruction": "If the casualty is responsive, call the Poison Information Centre",
+          "detail": "Follow their advice carefully. They will guide treatment based on the specific poison"
+        },
+        {
+          "number": 3,
+          "instruction": "If the casualty is unresponsive or having a seizure, call for medical help",
+          "warning": "Call 911 immediately"
+        },
+        {
+          "number": 4,
+          "instruction": "If the casualty is unresponsive but breathing, place in the recovery position",
+          "detail": "Keep airway open and monitor breathing"
+        },
+        {
+          "number": 5,
+          "instruction": "Give ongoing casualty care until medical help takes over",
+          "detail": "Monitor vital signs, keep them warm, and be prepared for CPR"
+        }
+      ],
+      "warnings": [
+        "Do not induce vomiting unless advised by Poison Information Centre",
+        "Do not dilute swallowed poisons unless told to by Poison Information Centre",
+        "For inhaled poisons, ensure your own safety before helping",
+        "Assess hazards with attention to poisonous gas or vapour",
+        "For absorbed poisons, flush with large amounts of cool water",
+        "For injected poisons, keep affected limb below heart level",
+        "Time is critical with poisoning",
+        "Many poisons cause delayed symptoms"
+      ],
+      "whenToCall911": "If unresponsive, having seizures, or if Poison Information Centre advises",
+      "duration": "Until medical help arrives"
+    },
+    {
+      "id": "poisoning-swallowed",
+      "category": "Poisoning",
+      "title": "First Aid for Swallowed Poisons",
+      "severity": "critical",
+      "keywords": ["poisoning", "swallowed", "ingested", "corrosive"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "If CPR is required, check the area around the mouth",
+          "detail": "Wipe clear any poisonous residue. Always use a barrier device for added protection"
+        },
+        {
+          "number": 2,
+          "instruction": "Perform a scene survey and a primary survey",
+          "detail": "Assess responsiveness and breathing"
+        },
+        {
+          "number": 3,
+          "instruction": "Do not dilute the poison by giving fluids",
+          "warning": "Unless specifically told to do so by the Poison Information Centre"
+        },
+        {
+          "number": 4,
+          "instruction": "If conscious, wipe poisonous or corrosive residue from the face",
+          "detail": "Rinse or wipe out the mouth carefully"
+        },
+        {
+          "number": 5,
+          "instruction": "Never induce vomiting except on advice of Poison Information Centre",
+          "warning": "Many poisons cause more damage when vomited"
+        }
+      ],
+      "warnings": [
+        "Do not dilute without Poison Information Centre advice",
+        "Do not induce vomiting without Poison Information Centre advice",
+        "Many corrosive poisons will damage the mouth and throat if vomited",
+        "Always protect yourself with barrier device if giving CPR"
+      ],
+      "whenToCall911": "Immediately - call Poison Information Centre",
+      "duration": "Until medical help arrives"
+    },
+    {
+      "id": "poisoning-inhaled",
+      "category": "Poisoning",
+      "title": "First Aid for Inhaled Poisons",
+      "severity": "critical",
+      "keywords": ["poisoning", "inhaled", "gas", "vapour", "fumes", "toxic"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and a primary survey",
+          "detail": "Assess hazards with particular attention to the possible presence of a poisonous gas or vapour. Ensure your safety; it may be best to wait for professional rescuers"
+        },
+        {
+          "number": 2,
+          "instruction": "Move the person to fresh air and away from the source",
+          "warning": "Only do this if it is safe for you to do so"
+        },
+        {
+          "number": 3,
+          "instruction": "If breathing is not present, begin CPR",
+          "detail": "If the poison could affect you while giving first aid, use a face mask or shield with a one-way valve"
+        },
+        {
+          "number": 4,
+          "instruction": "If the casualty vomits, keep the airway open",
+          "detail": "Clear out the mouth and put the casualty into the recovery position"
+        },
+        {
+          "number": 5,
+          "instruction": "If the casualty goes into convulsions, prevent injury",
+          "detail": "Protect them from striking objects"
+        },
+        {
+          "number": 6,
+          "instruction": "Give ongoing casualty care and get medical help",
+          "detail": "Monitor breathing and consciousness"
+        }
+      ],
+      "warnings": [
+        "Ensure your own safety before helping - do not enter hazardous areas",
+        "Use protective equipment (mask, shield) if available",
+        "Move to fresh air immediately",
+        "Watch for delayed respiratory symptoms",
+        "Be prepared for vomiting or seizures"
+      ],
+      "whenToCall911": "Immediately",
+      "duration": "Until medical help arrives"
+    },
+    {
+      "id": "poisoning-absorbed",
+      "category": "Poisoning",
+      "title": "First Aid for Absorbed Poisons",
+      "severity": "major",
+      "keywords": [
+        "poisoning",
+        "absorbed",
+        "skin",
+        "contact dermatitis",
+        "chemical"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and a primary survey",
+          "detail": "Assess the situation and extent of exposure"
+        },
+        {
+          "number": 2,
+          "instruction": "Flush the affected area with large amounts of cool water",
+          "detail": "If the poisonous substance is a powder, brush off excessive amounts with a dry cloth before flushing"
+        },
+        {
+          "number": 3,
+          "instruction": "Remove any clothing that has been in contact with the poison",
+          "warning": "Don't touch the clothing until it has been thoroughly washed"
+        },
+        {
+          "number": 4,
+          "instruction": "Wash the affected skin thoroughly with soap and water",
+          "detail": "Continue washing for several minutes"
+        },
+        {
+          "number": 5,
+          "instruction": "Give ongoing casualty care until medical help takes over",
+          "detail": "Monitor for signs of systemic absorption and seek medical attention"
+        }
+      ],
+      "warnings": [
+        "Some chemicals absorbed through skin can cause life-threatening emergencies",
+        "Brush off powder before flushing to avoid spreading",
+        "Do not touch contaminated clothing with bare hands",
+        "Watch for symptoms of systemic poisoning even after initial treatment",
+        "Contact dermatitis includes redness, itching and blisters"
+      ],
+      "whenToCall911": "If signs of systemic poisoning or large area affected",
+      "duration": "Continuous flushing for at least 10-15 minutes"
+    },
+    {
+      "id": "poisoning-injected",
+      "category": "Poisoning",
+      "title": "First Aid for Injected Poisons",
+      "severity": "critical",
+      "keywords": ["poisoning", "injected", "bite", "sting", "snake", "needle"],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Follow general first aid for poisoning",
+          "detail": "Perform scene and primary survey, call for help if needed"
+        },
+        {
+          "number": 2,
+          "instruction": "Place the casualty at rest",
+          "detail": "Keep the affected limb below heart level to slow poison circulation"
+        },
+        {
+          "number": 3,
+          "instruction": "Immobilize the affected limb",
+          "detail": "This delays the circulation of the poison throughout the body"
+        },
+        {
+          "number": 4,
+          "instruction": "If needle-stick with possible disease contamination, scrub vigorously",
+          "detail": "Use Iodine or similar disinfectant at the injection site"
+        },
+        {
+          "number": 5,
+          "instruction": "Get medical attention",
+          "warning": "Injected poisons require professional medical evaluation and treatment"
+        }
+      ],
+      "warnings": [
+        "Keep affected limb immobilized and below heart level",
+        "Do not move the affected limb more than necessary",
+        "For needle-stick injuries, seek immediate medical attention",
+        "Systemic symptoms may be delayed",
+        "Always get professional medical evaluation"
+      ],
+      "whenToCall911": "Immediately for significant injections or unknown sources",
+      "duration": "Until medical help arrives"
+    },
+    {
+      "id": "fracture",
+      "category": "Seizure",
+      "title": "First Aid for a Seizure or Convulsion",
+      "severity": "critical",
+      "keywords": [
+        "seizure",
+        "convulsion",
+        "epilepsy",
+        "unconscious",
+        "shaking"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey. Make the area safe",
+          "detail": "Clear away objects that could cause injury. Clear onlookers away to ensure the casualty's privacy"
+        },
+        {
+          "number": 2,
+          "instruction": "During convulsions, do not restrict the casualty's movements",
+          "detail": "Protect them from injury. Carefully loosen tight clothing, especially around the neck. Place something soft under the head"
+        },
+        {
+          "number": 3,
+          "instruction": "Do not try to put anything in the mouth",
+          "warning": "Do not try to put anything between the teeth or to hold the tongue"
+        },
+        {
+          "number": 4,
+          "instruction": "Perform a primary survey after convulsions are finished",
+          "detail": "Check for breathing and responsiveness"
+        },
+        {
+          "number": 5,
+          "instruction": "Place the unconscious casualty into the recovery position",
+          "detail": "Clear any fluids from the mouth or nose"
+        },
+        {
+          "number": 6,
+          "instruction": "Do a secondary survey to check for injuries",
+          "detail": "See if the casualty was injured during the seizure; give first aid for any injuries found"
+        },
+        {
+          "number": 7,
+          "instruction": "Give ongoing casualty care",
+          "detail": "Monitor breathing, keep the casualty warm and allow them to rest"
+        },
+        {
+          "number": 8,
+          "instruction": "Don't give the casualty any liquids during or immediately after a seizure",
+          "warning": "Risk of choking or aspiration"
+        }
+      ],
+      "warnings": [
+        "Do not restrict movements during convulsion",
+        "Do not put anything in the mouth",
+        "Call 911 if unconscious for more than 5 minutes",
+        "Call 911 if there is a second major seizure within a few minutes",
+        "Call 911 if this is the person's first seizure or cause is unknown",
+        "Protect casualty from striking objects or walls",
+        "Do not give food or liquids immediately after seizure"
+      ],
+      "whenToCall911": "If unconscious >5 minutes, second seizure within minutes, first seizure, or unknown cause",
+      "duration": "Until casualty regains consciousness and is stable"
+    },
+    {
+      "id": "asthma-attack",
+      "category": "Asthma",
+      "title": "First Aid for a Severe Asthma Attack",
+      "severity": "critical",
+      "keywords": [
+        "asthma",
+        "asthma attack",
+        "breathing",
+        "inhaler",
+        "respiratory"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey and a primary survey; send for medical help",
+          "detail": "Call 911 or emergency services immediately for a severe attack"
+        },
+        {
+          "number": 2,
+          "instruction": "Place the casualty in the most comfortable position for breathing",
+          "detail": "This is usually sitting upright with arms resting on a table"
+        },
+        {
+          "number": 3,
+          "instruction": "Help the casualty take prescribed medication",
+          "detail": "Assist them with their rescue inhaler or prescribed asthma medications"
+        },
+        {
+          "number": 4,
+          "instruction": "Give ongoing casualty care",
+          "detail": "Monitor breathing and consciousness, keep them calm and reassured"
+        },
+        {
+          "number": 5,
+          "instruction": "If the unconscious casualty stops breathing, begin CPR",
+          "warning": "Be prepared to perform CPR if necessary"
+        }
+      ],
+      "warnings": [
+        "Severe asthma attacks can be life-threatening",
+        "Do not delay calling 911 for a severe attack",
+        "Watch for signs of respiratory distress or unconsciousness",
+        "Do not restrict casualty's movement or panic them",
+        "Have their rescue inhaler ready immediately"
+      ],
+      "whenToCall911": "Immediately for severe asthma attacks",
+      "duration": "Until emergency services arrives"
+    },
+    {
+      "id": "mdi-inhaler",
+      "category": "Asthma",
+      "title": "Assisting with a Metered Dose Inhaler",
+      "severity": "minor",
+      "keywords": [
+        "inhaler",
+        "metered dose inhaler",
+        "MDI",
+        "puffer",
+        "asthma",
+        "medication"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Shake the container, then remove the cap",
+          "detail": "Prepare the metered dose inhaler (MDI or 'puffer') for use"
+        },
+        {
+          "number": 2,
+          "instruction": "Tell the casualty to breathe out completely",
+          "detail": "Empty their lungs of air before inhaling the medication",
+          "illustration": "inhalerstep2.png"
+        },
+        {
+          "number": 3,
+          "instruction": "Tell the casualty to breathe in slowly and deeply",
+          "detail": "As the casualty does, press the MDI to release the medication. The MDI can be in the mouth, or just in front of the mouth",
+          "illustration": "inhalerstep3.png"
+        },
+        {
+          "number": 4,
+          "instruction": "Tell the casualty to hold their breath for 10 seconds",
+          "detail": "This allows the medication to spread out in the lungs. Then tell them to breathe normally so the medication won't be expelled. If more doses are needed, wait at least 30-60 seconds before repeating these steps"
+        }
+      ],
+      "warnings": [
+        "Follow the casualty's prescribed instructions for their specific inhaler",
+        "Some inhalers require a spacer device for proper delivery",
+        "Do not shake the inhaler while the casualty is inhaling",
+        "Make sure the casualty understands the technique",
+        "If symptoms don't improve after 15 minutes, seek medical help"
+      ],
+      "whenToCall911": "If asthma attack symptoms worsen or don't improve after medication use",
+      "duration": "A few minutes per dose"
+    },
+    {
+      "id": "heart-attack",
+      "category": "Heart Attack",
+      "title": "First Aid for Angina/Heart Attack",
+      "severity": "critical",
+      "keywords": [
+        "heart attack",
+        "angina",
+        "chest pain",
+        "cardiac",
+        "myocardial infarction"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey, then do a primary survey",
+          "detail": "Ask the casualty questions: 'Can you show me where it hurts?' 'Have you had this pain before?' 'Do you have medication for this pain?'"
+        },
+        {
+          "number": 2,
+          "instruction": "Call for medical help and get a defibrillator",
+          "warning": "Call 911 immediately - time is critical"
+        },
+        {
+          "number": 3,
+          "instruction": "Place the casualty at rest in the semi-sitting position",
+          "detail": "The semi-sitting position is usually the best option, and reassure them"
+        },
+        {
+          "number": 4,
+          "instruction": "Assist the conscious casualty to take their prescribed medication",
+          "detail": "Usually nitroglycerin. If the casualty has no prescribed medication, or the first dose is ineffective, ask if they have any allergies to ASA, or if a doctor has told them not to take it. If the casualty believes they can take it, suggest they chew one regular ASA tablet (or two low-dose tablets). ASA can reduce the effects of a heart attack because of its anti-clotting properties"
+        },
+        {
+          "number": 5,
+          "instruction": "If the casualty loses consciousness and stops breathing, start CPR",
+          "warning": "Be prepared to perform CPR immediately"
+        }
+      ],
+      "warnings": [
+        "Chest pain, pressure, or heaviness requires immediate medical attention",
+        "Pain may radiate to arm, jaw, or back",
+        "Ask about allergies to ASA before administering",
+        "Women may have atypical symptoms",
+        "Call 911 immediately - every minute counts"
+      ],
+      "whenToCall911": "Immediately",
+      "duration": "Until emergency services arrives"
+    },
+    {
+      "id": "stroke",
+      "category": "Stroke",
+      "title": "First Aid for Stroke/TIA",
+      "severity": "critical",
+      "keywords": [
+        "stroke",
+        "TIA",
+        "cva",
+        "brain attack",
+        "paralysis",
+        "speech",
+        "FAST"
+      ],
+      "steps": [
+        {
+          "number": 1,
+          "instruction": "Perform a scene survey, then do a primary survey; perform the FAST assessment",
+          "detail": "F.A.S.T. = Face drooping, Arms weakness, Speech difficulty, Time of onset. Check for these signs immediately"
+        },
+        {
+          "number": 2,
+          "instruction": "Call for medical help",
+          "warning": "Call 911 immediately - time is critical, treatment must start within hours"
+        },
+        {
+          "number": 3,
+          "instruction": "Place the casualty at rest in the semi-sitting position",
+          "detail": "This position helps with breathing and circulation"
+        },
+        {
+          "number": 4,
+          "instruction": "Give nothing by mouth, especially ASA",
+          "warning": "The casualty may have difficulty swallowing and ASA is contraindicated in some stroke types"
+        },
+        {
+          "number": 5,
+          "instruction": "Give ongoing care",
+          "detail": "Monitor breathing and consciousness, keep them calm and reassured, and be prepared for CPR if needed"
+        }
+      ],
+      "warnings": [
+        "Face drooping on one side",
+        "Arm weakness or numbness on one side",
+        "Speech difficulty or slurring",
+        "Vision problems or loss",
+        "Loss of balance or dizziness",
+        "Severe headache with no known cause",
+        "Do not give food or water - risk of choking",
+        "Do not give ASA - may worsen some stroke types",
+        "Minutes = brain cells dying - act FAST"
+      ],
+      "whenToCall911": "Immediately at first sign of stroke symptoms",
+      "duration": "Until emergency services arrives"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "onboarding": {
+    "common": {
+      "continue": "Continuer"
+    },
+    "welcome": {
+      "title": "Bienvenue sur Safe+Sound",
+      "subtitle": "Des conseils de premiers secours rapides, conçus pour les urgences.",
+      "point1": "Hors ligne: les informations clés restent accessibles sans internet.",
+      "point2": "Guides traduits: changez de langue à tout moment.",
+      "point3": "Urgence: appelez votre numéro d'urgence local en cas de blessure grave."
+    },
+    "language": {
+      "title": "Choisissez votre langue",
+      "subtitle": "Vous pourrez la changer plus tard dans Paramètres."
+    },
+    "legal": {
+      "title": "Avant de continuer",
+      "subtitle": "Veuillez lire et accepter ce qui suit.",
+      "disclaimer_summary": "Cette application fournit des informations générales et ne remplace pas un avis médical.",
+      "privacy_summary": "La plupart des informations restent sur votre appareil (ex.: langue, guides consultés).",
+      "open_disclaimer": "Lire l'avertissement",
+      "open_privacy": "Lire la politique de confidentialité",
+      "accept_and_continue": "J'accepte et je continue",
+      "note": "Vous devez accepter pour utiliser l'application."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "onboarding": {
+    "common": {
+      "continue": "Continue"
+    },
+    "welcome": {
+      "title": "Welcome to Safe+Sound",
+      "subtitle": "Quick first aid guidance, designed for emergencies.",
+      "point1": "Offline-first: key guidance is available without internet.",
+      "point2": "Translated guides: switch languages anytime.",
+      "point3": "Emergency help: call your local emergency number for serious injuries."
+    },
+    "language": {
+      "title": "Choose your language",
+      "subtitle": "You can change this later in Settings."
+    },
+    "legal": {
+      "title": "Before you continue",
+      "subtitle": "Please review and accept the following.",
+      "disclaimer_summary": "This app provides general first aid information and is not medical advice.",
+      "privacy_summary": "We keep most information on your device (for example: language preference and viewed guides).",
+      "open_disclaimer": "Read Disclaimer",
+      "open_privacy": "Read Privacy Policy",
+      "accept_and_continue": "I Agree & Continue",
+      "note": "You must accept to use the app."
+    }
+  }
+}

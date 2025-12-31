@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Safe+Sound",
+    "slug": "safe-and-sound",
+    "version": "1.0.0",
+    "scheme": "safeandsound",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#fef3c7"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "bundleIdentifier": "com.safeandsound.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#fef3c7"
+      },
+      "package": "com.safeandsound.app"
+    },
+    "plugins": ["expo-asset"],
+    "extra": {
+      "privacyPolicyUrl": ""
+    }
+  }
+}

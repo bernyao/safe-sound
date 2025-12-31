@@ -1,0 +1,168 @@
+{
+  "cpr-adult": {
+    "title": "CPR for Adults",
+    "whenToCall911": "Immediately — activate EMS and get an AED as soon as possible",
+    "steps": [
+      {
+        "number": 1,
+        "instruction": "Perform a scene survey",
+        "tip": "Check for hazards before approaching"
+      },
+      { "number": 2, "instruction": "Assess responsiveness" },
+      {
+        "number": 3,
+        "instruction": "If there is no response, call for medical help (use speaker-phone if on a mobile) and send someone for an AED",
+        "warning": "If you are alone and have no phone, go for help and an AED if available"
+      },
+      {
+        "number": 4,
+        "instruction": "Perform a primary survey",
+        "detail": "Open the airway and check for breathing for at least 5 and no more than 10 seconds"
+      },
+      {
+        "number": 5,
+        "instruction": "If the casualty is not breathing (or not breathing effectively/agonal), position your hands in the centre of the upper chest with shoulders directly over your hands",
+        "detail": "Keep your elbows locked"
+      },
+      {
+        "number": 6,
+        "instruction": "Give 30 compressions — push hard, push fast",
+        "detail": "Press straight down on the breastbone 5–6 cm (2–2.4 in), allow full recoil, and compress at 100–120/min",
+        "tip": "Count out loud to keep rhythm"
+      },
+      {
+        "number": 7,
+        "instruction": "Open the airway by tilting the head and lifting the chin"
+      },
+      {
+        "number": 8,
+        "instruction": "Give 2 rescue breaths",
+        "detail": "Use a barrier device if available; each breath ~1 second, just enough to make the chest rise"
+      },
+      {
+        "number": 9,
+        "instruction": "This is one cycle of 30:2 (30 compressions to 2 ventilations) — continue CPR until an AED is applied, the casualty responds, another trained rescuer/EMS takes over, or you are too exhausted",
+        "warning": "Apply the AED as soon as it arrives"
+      }
+    ],
+    "warnings": [
+      "Do not perform on conscious person",
+      "Stop if person starts breathing normally"
+    ]
+  },
+  "cpr-child": {
+    "title": "CPR for Children",
+    "whenToCall911": "Immediately — activate EMS and get an AED as soon as possible (if alone with no phone: 2 minutes/5 cycles first)",
+    "steps": [
+      {
+        "number": 1,
+        "instruction": "Perform a scene survey",
+        "tip": "Check for hazards before approaching"
+      },
+      { "number": 2, "instruction": "Assess responsiveness" },
+      {
+        "number": 3,
+        "instruction": "If there is no response, send or call for medical help and an AED if available",
+        "detail": "If you are alone with no phone, perform 5 cycles of CPR (about 2 minutes), then go for medical help; carry the child with you if possible"
+      },
+      {
+        "number": 4,
+        "instruction": "Perform a primary survey",
+        "detail": "Open the airway and check for breathing for at least 5 and no more than 10 seconds"
+      },
+      {
+        "number": 5,
+        "instruction": "If the casualty is not breathing (or not breathing effectively/agonal), position your hands in the centre of the upper chest with shoulders directly over your hands",
+        "detail": "Keep your elbows locked; use one or two hands depending on the child's size"
+      },
+      {
+        "number": 6,
+        "instruction": "Give 30 compressions — push hard, push fast",
+        "detail": "Compress about 1/3 of chest depth (about 5 cm / 2 in), allow full recoil, and compress at 100–120/min",
+        "tip": "Count out loud to keep rhythm"
+      },
+      {
+        "number": 7,
+        "instruction": "Open the airway by tilting the head and lifting the chin"
+      },
+      {
+        "number": 8,
+        "instruction": "Give 2 rescue breaths",
+        "detail": "Use a barrier device if available; give just enough air to make the chest rise"
+      },
+      {
+        "number": 9,
+        "instruction": "This is one cycle of 30:2 (30 compressions to 2 ventilations) — continue CPR until an AED is applied, the casualty responds, another rescuer/EMS takes over, or you are too exhausted",
+        "warning": "Apply the AED as soon as it arrives"
+      }
+    ],
+    "warnings": [
+      "Use one or two hands depending on the child's size",
+      "If you are alone with no phone, perform about 2 minutes (5 cycles) of CPR before going for help",
+      "Apply an AED as soon as it arrives"
+    ]
+  },
+  "choking-adult": {
+    "title": "Choking Relief (Adult)",
+    "whenToCall911": "Immediately for severe obstruction or if the person becomes unconscious; obtain an AED",
+    "steps": [
+      {
+        "number": 1,
+        "instruction": "Perform a scene survey to ensure safety for you and the casualty"
+      },
+      {
+        "number": 2,
+        "instruction": "Assess severity — ask 'Are you choking?' and look for inability to speak, cough, or breathe",
+        "warning": "Call 911 immediately if severe obstruction is suspected"
+      },
+      {
+        "number": 3,
+        "instruction": "If the person can cough forcefully, speak, or breathe, encourage them to keep coughing",
+        "tip": "Seek medical help if mild obstruction lasts more than a few minutes"
+      },
+      {
+        "number": 4,
+        "instruction": "If severe obstruction: give up to 5 back blows between the shoulder blades",
+        "detail": "Support the person while striking with the heel of your hand"
+      },
+      {
+        "number": 5,
+        "instruction": "If not cleared, stand behind the person ready to support them if they become unconscious"
+      },
+      {
+        "number": 6,
+        "instruction": "Make a fist and place it at the belly button level, above the navel and below the ribcage",
+        "detail": "Align with the hip bones; avoid the lower ribcage and xiphoid"
+      },
+      {
+        "number": 7,
+        "instruction": "Grasp the fist with your other hand and deliver 5 quick inward and upward abdominal thrusts",
+        "detail": "Heimlich maneuver"
+      },
+      {
+        "number": 8,
+        "instruction": "Repeat cycles of 5 back blows and 5 abdominal thrusts until the object is expelled",
+        "warning": "Do not give food or drink; continue cycles until effective or the person becomes unconscious"
+      },
+      {
+        "number": 9,
+        "instruction": "If the person becomes unconscious, lower them to the ground and call for medical help and an AED",
+        "warning": "Activate EMS immediately"
+      },
+      { "number": 10, "instruction": "Begin chest compressions immediately" },
+      {
+        "number": 11,
+        "instruction": "After the first 30 compressions, open the mouth and remove any visible object"
+      },
+      {
+        "number": 12,
+        "instruction": "Attempt 2 rescue breaths; if air does not enter, continue compressions and recheck the mouth before each set of ventilations"
+      }
+    ],
+    "warnings": [
+      "For mild obstruction, do not interfere beyond encouraging coughing",
+      "Abdominal thrusts can cause internal injuries — seek medical evaluation afterward",
+      "If unconscious, prioritize compressions and airway checks with visible object removal only"
+    ]
+  }
+}
