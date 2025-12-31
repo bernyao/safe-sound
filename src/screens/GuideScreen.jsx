@@ -129,7 +129,6 @@ export default function GuideScreen({ route, navigation }) {
 
   const currentStepData = guide.steps[currentStep];
   const severityInfo = SEVERITY_BADGES[guide.severity] || SEVERITY_BADGES.minor;
-  const categoryLabel = translateCategory(guide.category);
   const stepCount = guide.steps.length;
   const hasNextStep = currentStep < stepCount - 1;
   const hasPrevStep = currentStep > 0;
@@ -182,9 +181,6 @@ export default function GuideScreen({ route, navigation }) {
             ]}
           >
             <Text style={styles.severityText}>{severityInfo.label}</Text>
-          </View>
-          <View style={styles.categoryBadge}>
-            <Text style={styles.categoryBadgeText}>{categoryLabel}</Text>
           </View>
         </View>
         <View style={styles.section}>
@@ -418,19 +414,6 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: "700",
     color: "#ffffff",
-  },
-  categoryBadge: {
-    paddingHorizontal: 12,
-    paddingVertical: 6,
-    borderRadius: 20,
-    borderWidth: 2,
-    borderColor: "#000000",
-    backgroundColor: "#ffffff",
-  },
-  categoryBadgeText: {
-    fontSize: 12,
-    fontWeight: "700",
-    color: "#000000",
   },
   stepCard: {
     paddingHorizontal: 16,
