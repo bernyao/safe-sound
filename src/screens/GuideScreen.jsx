@@ -39,20 +39,6 @@ import AutoinjectionStep1Img from "../../assets/images/autoinjection-step1.png";
 import AutoinjectionStep4Img from "../../assets/images/autoinjection-step4.png";
 import AutoinjectionStep5Img from "../../assets/images/autoinjection-step5.png";
 
-const GUIDE_EMOJIS = {
-  CPR: "❤️",
-  Choking: "🫁",
-  Bleeding: "🩹",
-  Burns: "🔥",
-  Shock: "⚡",
-  Allergies: "🤧",
-  Poisoning: "☠️",
-  Fractures: "🦴",
-  "Head Injury": "🧠",
-  "Heart Attack": "💔",
-  Stroke: "🧠",
-};
-
 const SEVERITY_BADGES = {
   critical: { color: "#ef4444", label: "Critical" },
   major: { color: "#fbbf24", label: "Major" },
@@ -143,7 +129,6 @@ export default function GuideScreen({ route, navigation }) {
 
   const currentStepData = guide.steps[currentStep];
   const severityInfo = SEVERITY_BADGES[guide.severity] || SEVERITY_BADGES.minor;
-  const categoryEmoji = GUIDE_EMOJIS[guide.category] || "📋";
   const categoryLabel = translateCategory(guide.category);
   const stepCount = guide.steps.length;
   const hasNextStep = currentStep < stepCount - 1;
@@ -198,10 +183,8 @@ export default function GuideScreen({ route, navigation }) {
           >
             <Text style={styles.severityText}>{severityInfo.label}</Text>
           </View>
-          <View style={[styles.categoryBadge, { backgroundColor: "#000000" }]}>
-            <Text style={styles.categoryBadgeText}>
-              {categoryEmoji} {categoryLabel}
-            </Text>
+          <View style={styles.categoryBadge}>
+            <Text style={styles.categoryBadgeText}>{categoryLabel}</Text>
           </View>
         </View>
         <View style={styles.section}>
@@ -435,6 +418,19 @@ const styles = StyleSheet.create({
     fontSize: 12,
     fontWeight: "700",
     color: "#ffffff",
+  },
+  categoryBadge: {
+    paddingHorizontal: 12,
+    paddingVertical: 6,
+    borderRadius: 20,
+    borderWidth: 2,
+    borderColor: "#000000",
+    backgroundColor: "#ffffff",
+  },
+  categoryBadgeText: {
+    fontSize: 12,
+    fontWeight: "700",
+    color: "#000000",
   },
   stepCard: {
     paddingHorizontal: 16,
